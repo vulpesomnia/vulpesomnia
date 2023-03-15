@@ -1,5 +1,5 @@
 
-     Hey i'm @tommy-foxs!
+     Hey i'm TommyFoxs
  
   - I enjoy programming for games. I'm not the most artistic person, but can do a little art.
   
