@@ -9,7 +9,7 @@
 </ul>
 
 <br />
-<img align="center" src="https://github-readme-stats-6hmk-beryl.vercel.app/api?username=vulpesomnia&show_icons=true&include_all_commits=false&hide_rank=true&bg_color=50,c276e3,e8ab66&title_color=ffffff&icon_color=fffb91&text_color=ffffff" />
+<img align="center" src="https://github-readme-stats-6hmk-beryl.vercel.app/api?username=vulpesomnia&count_private=true&show_icons=true&include_all_commits=false&hide_rank=true&bg_color=50,c276e3,e8ab66&title_color=ffffff&icon_color=fffb91&text_color=ffffff" />
 
 
 
