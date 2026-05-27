@@ -1,6 +1,5 @@
 
 <h1 align="center">Hey :wave:, I'm Tommy Kroon!</h1>
-<h3 align="center">Collaborative and passionate, turning challenges into opportunities.</h3>
 
 <ul>
  <li>I enjoy calisthenics and making games in my free time. :weight_lifting: :video_game:</li>
